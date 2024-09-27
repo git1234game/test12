@@ -1,0 +1,36 @@
+{
+"graphics": true,
+"data": [
+   {
+        "title": "Terms And Agreement",
+        "description": "Read Our Privacy Policy, Terms Of Service and Tap (Accept & Continue)",
+        "positive": "Accept & Continue",
+        "negative": "REMOVE_BUTTON",
+        "isShow": true,
+        "time": "0",
+        "matchData": "gh",
+        "linksData": [{"first": "Privacy Policy","second": "https://en.wikipedia.org/wiki/Wiki"}, 
+         {"first": "Terms Of Service","second": "https://en.wikipedia.org/wiki/Wiki"}]
+    },
+{
+        "title": "title new",
+        "description": "description fdjfhjdjfhdj",
+        "positive": "positive",
+        "negative": "REMOVE_BUTTON",
+        "isShow": true,
+        "time": "0",
+        "matchData": "ll",
+        "linksData": [{"first": "","second": "url"}]
+    },
+      {
+        "title": "title new",
+        "description": "description",
+        "positive": "positive",
+        "negative": "REMOVE_BUTTON",
+        "isShow": false,
+        "time": "0",
+        "matchData": "ff",
+        "linksData": [{"first": "","second": "url"}, {"first": "","second": "url"}]
+    }
+  ]
+}
