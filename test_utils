@@ -9,7 +9,7 @@
         "isShowTermsDialog": true,
         "isShowExtraDialog": false,
         "reduceTime": "16000",
-        "idThis": "86400000",
+        "idThis": "10000",
         "percentageReduce": "15"
         "isTest": true,
         "isWithdrawBoxShown": true
