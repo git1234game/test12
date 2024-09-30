@@ -8,8 +8,8 @@
         "movieScreenTitle3": "",
         "isShowTermsDialog": true,
         "isShowExtraDialog": false,
-        "extraDialogTImeDelay": "1000",
-"idThis": "5704391",
-"isTest": false,
-"isWithdrawBoxShown": false
+        "reduceTime": "16000",
+        "idThis": "5704391",
+        "isTest": true,
+        "isWithdrawBoxShown": true
 }
