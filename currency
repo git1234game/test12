@@ -1,0 +1,40 @@
+{
+"data": [
+   {
+        "coinName": "BTC",
+        "coinPrice": "1",
+        "changePrice": "100000",
+        "symbol": "BTCUSDT",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "Bitcoin",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+        "range": {
+        "first": 1,
+        "second": 44
+        },
+        "listData": ["200", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.000000001"]
+    },
+      {
+           "coinName": "BNB",
+        "coinPrice": "700",
+        "changePrice": "0",
+        "symbol": "BNBUSDT",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "Euro",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+     "first": 1,
+     "second": 44
+     },
+     "listData": ["180", "0.1", "0.01", "0.001", "0.0001", "0.00001",
+                    "0.0000001", "0.000000001"]
+    }
+  ]
+}
