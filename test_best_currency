@@ -1,12 +1,12 @@
 {
 "data": [
    {
-        "coinName": "ETH",
-        "coinPrice": "1",
-        "changePrice": "100000",
-        "symbol": "BTCUSDT",
+        "coinName": "BNB",
+        "coinPrice": "700",
+        "changePrice": "0",
+        "symbol": "BNBUSDT",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "Bitcoin",
+        "coinFullName": "Binance coin",
         "coinIcon": "", 
         "balance": "0",
         "balanceInUsdt": "",
@@ -19,12 +19,12 @@
                     "0.000001", "0.000000001"]
     },
       {
-           "coinName": "BNB",
-        "coinPrice": "700",
+           "coinName": "SOL",
+        "coinPrice": "250",
         "changePrice": "0",
-        "symbol": "BNBUSDT",
+        "symbol": "SOLUSDT",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "Binance Coin",
+        "coinFullName": "Solana",
         "coinIcon": "", 
         "balance": "0",
         "balanceInUsdt": "",
